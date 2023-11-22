@@ -7,7 +7,7 @@ mydb = mysql.connector.connect(
     host="localhost",
     user='root',
     port='3306',
-    password='#Obuong76@',
+    password='',
     database='business_db'
 )
 # cursor for executing SQL queries
